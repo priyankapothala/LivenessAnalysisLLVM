@@ -163,12 +163,3 @@ opt -load ../Pass/build/libLLVMLivenessAnalysisPass.so  -Liveness < 2.ll > /dev/
         outfile << "\n";
     }
 	```
-
-
-## Test Results
-
-### Output for input file **1.ll**
-![image](./1.png)
-
-### Output for input file **2.ll**
-![image](./2.png)
