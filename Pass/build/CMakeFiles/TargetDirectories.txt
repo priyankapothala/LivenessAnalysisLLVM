@@ -1,0 +1,4 @@
+/home/priyanka/Desktop/LivenessAnalysisLLVM/Pass/build/CMakeFiles/rebuild_cache.dir
+/home/priyanka/Desktop/LivenessAnalysisLLVM/Pass/build/CMakeFiles/edit_cache.dir
+/home/priyanka/Desktop/LivenessAnalysisLLVM/Pass/build/CMakeFiles/intrinsics_gen.dir
+/home/priyanka/Desktop/LivenessAnalysisLLVM/Pass/build/CMakeFiles/LLVMLivenessAnalysisPass.dir
