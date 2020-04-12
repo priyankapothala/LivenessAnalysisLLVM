@@ -121,7 +121,7 @@ opt -load ../Pass/build/libLLVMLivenessAnalysisPass.so  -Liveness < 2.ll > /dev/
     outfile.open(outputfile);
 	```
 
-8. Then we iterate over all the basic blocks. The basic basic name is obtained using ``getName()``.
+8. Then we iterate over all the basic blocks. The basic block name is obtained using ``getName()``.
     ```c++
     StringRef bbName(BBList[i]->getName());
     ```
